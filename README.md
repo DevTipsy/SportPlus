@@ -19,10 +19,10 @@ Pensée pour motiver, connecter et accompagner les utilisateurs dans leur pratiq
 ## 📸 Aperçu
 
 <p align="center">
-  <img src="assets/git/activities.png" width="200" alt="Liste d'activités" />
-  <img src="assets/git/events.png" width="200" alt="Créer une activité" />
-  <img src="assets/git/messages.png" width="200" alt="Messages" />
-  <img src="assets/git/profile.png" width="200" alt="Profil utilisateur" />
+  <img src="assets/activities.png" width="200" alt="Liste d'activités" />
+  <img src="assets/events.png" width="200" alt="Créer une activité" />
+  <img src="assets/messages.png" width="200" alt="Messages" />
+  <img src="assets/profile.png" width="200" alt="Profil utilisateur" />
 </p>
 
 ---
