@@ -19,8 +19,8 @@ Pensée pour motiver, connecter et accompagner les utilisateurs dans leur pratiq
 ## 📸 Aperçu
 
 <p align="center">
-  <img src="assets/activityList.png" width="200" alt="Liste d'activités" />
-  <img src="assets/activityDetail.png" width="200" alt="Détail activité" />
+  <img src="assets/activities.png" width="200" alt="Liste d'activités" />
+  <img src="assets/events.png" width="200" alt="Créer une activité" />
   <img src="assets/messages.png" width="200" alt="Messages" />
   <img src="assets/profile.png" width="200" alt="Profil utilisateur" />
 </p>
